@@ -13,7 +13,7 @@ ul {
 }
 
 
-/* 1.3 Geef de 'span' tag in de footer een beschrijvende class name en maak de lettergrootte kleiner  */
+/* 1.3  Geef de 'span' tag in de footer een beschrijvende class name en maak de lettergrootte kleiner  */
 .copyright {
     font-size: 7px;
 }
@@ -41,7 +41,7 @@ main a:link {
 
 /* Geef het tekst-veld een blauwe rand wanneer hij in focus is */
 input[type="submit"] {
-    outline-color: blue;
+    outline-color: #0000ff;
 }
 
 
